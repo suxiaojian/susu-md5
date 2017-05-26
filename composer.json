@@ -1,0 +1,17 @@
+{
+    "name": "susu/md5",
+    "description": "MD5 support in laravel",
+    "authors": [
+        {
+            "name": "苏健",
+            "email": "sujian@hoge.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Susu\\Md5\\": "src/"
+        }
+    }
+}
