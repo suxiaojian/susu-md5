@@ -4,7 +4,7 @@ namespace Susu\Md5;
 
 use Illuminate\Support\ServiceProvider;
 
-class SusuMd5provider extends ServiceProvider
+class SusuMd5Provider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
